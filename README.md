@@ -2,9 +2,18 @@
 
 I’m a **full-stack product builder** and system development student, currently working on my own startup project, **ForeC.gg**.
 
-I enjoy building products that feel real — not just demos — where backend architecture, data, and AI are used to solve concrete problems and create value.
+I enjoy building products that feel real — not just demos — where backend architecture, data, and and AI are used to solve concrete problems and create value.
 
-My current goal is to become employed as soon as possible in **Riga, Latvia**, ideally in a role where I can work close to the product and its technical core.
+Open to **backend, full-stack, or product-oriented engineering roles**.
+
+---
+
+## 💼 Current role
+**Full-Stack Engineering Intern — Podmanager.ai**
+
+- Building and maintaining product features using **Python** and **React**
+- Working close to real users and production systems
+- Contributing across both backend and frontend in a startup environment
 
 ---
 
@@ -34,6 +43,7 @@ Frontend and UI are developed by a teammate, while I focus on backend, data, and
 - **REST APIs**
 - **AI & LLM integration**
 - **Python**
+- **React**
 
 ---
 
